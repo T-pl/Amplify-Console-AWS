@@ -12,6 +12,7 @@ function App() {
         <h1>We now have Auth!</h1>
       </header>
       <div>Teste</div>
+      <div>Teste</div>
       {/* <AmplifySignOut /> */}
     </div>
   );
